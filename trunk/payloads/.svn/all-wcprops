@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/payloads
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/payloads/login.php
+END
+steal.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/payloads/steal.php
+END
+cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/payloads/cookie.php
+END
+steal_firefox.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/payloads/steal_firefox.php
+END
+hax0r.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/payloads/hax0r.php
+END
+steal_ie.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/payloads/steal_ie.php
+END
+redirection.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/payloads/redirection.php
+END
